@@ -1,0 +1,17 @@
+.container {
+  position: relative;
+  width: 400px;
+  height: 400px;
+  margin: 0 auto;
+  display: flex;
+  background-color: green;
+  border: 1px solid black;
+}
+img {
+  position: absolute;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
